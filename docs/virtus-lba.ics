@@ -1,0 +1,377 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//virtus-calendar//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Virtus Bologna · LBA
+X-WR-CALDESC:Partite Virtus Bologna in LBA
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT24H
+X-PUBLISHED-TTL:PT24H
+BEGIN:VEVENT
+UID:lba-25358@virtus-calendar
+DTSTAMP:20260919T195736Z
+DTSTART:20260919T174500Z
+DTEND:20260919T194500Z
+SUMMARY:🏆 Virtus @ Armani Olimpia Milano
+LOCATION:Nova Arena\, Tortona
+DESCRIPTION:LBA – Supercoppa 2026 · Semifinali\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25606@virtus-calendar
+DTSTAMP:20260922T074119Z
+DTSTART:20260927T170000Z
+DTEND:20260927T190000Z
+SUMMARY:🇮🇹 Virtus @ Openjobmetis Varese
+LOCATION:Itelyum Arena\, Varese
+DESCRIPTION:LBA – 1° Giornata\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25368@virtus-calendar
+DTSTAMP:20260922T075124Z
+DTSTART:20261004T161500Z
+DTEND:20261004T181500Z
+SUMMARY:🇮🇹 Virtus vs. Maxima Roma
+LOCATION:PalaDozza\, Bologna
+DESCRIPTION:LBA – 2° Giornata\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25377@virtus-calendar
+DTSTAMP:20260922T081034Z
+DTSTART:20261011T170000Z
+DTEND:20261011T190000Z
+SUMMARY:🇮🇹 Virtus @ Umana Reyer Venezia
+LOCATION:Palasport Taliercio\, Mestre
+DESCRIPTION:LBA – 3° Giornata\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25384@virtus-calendar
+DTSTAMP:20260922T081643Z
+DTSTART:20261018T163000Z
+DTEND:20261018T183000Z
+SUMMARY:🇮🇹 Virtus vs. Longobardi Scafati Basket
+LOCATION:PalaDozza\, Bologna
+DESCRIPTION:LBA – 4° Giornata\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25392@virtus-calendar
+DTSTAMP:20260922T090825Z
+DTSTART:20261025T150000Z
+DTEND:20261025T170000Z
+SUMMARY:🇮🇹 Virtus @ Armani Olimpia Milano
+LOCATION:Unipol Forum\, Assago
+DESCRIPTION:LBA – 5° Giornata\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25400@virtus-calendar
+DTSTAMP:20260804T085942Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus vs. Pallacanestro Trieste
+DESCRIPTION:LBA – 6° Giornata\nOrario non ancora ufficializzato: il cale
+ ndario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25408@virtus-calendar
+DTSTAMP:20260804T085943Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus vs. Tezenis Verona
+DESCRIPTION:LBA – 7° Giornata\nOrario non ancora ufficializzato: il cale
+ ndario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25417@virtus-calendar
+DTSTAMP:20260804T085950Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus @ Dolomiti Energia Trentino
+DESCRIPTION:LBA – 8° Giornata\nOrario non ancora ufficializzato: il cale
+ ndario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25424@virtus-calendar
+DTSTAMP:20260804T085950Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus vs. BC Roma
+DESCRIPTION:LBA – 9° Giornata\nOrario non ancora ufficializzato: il cale
+ ndario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25434@virtus-calendar
+DTSTAMP:20260804T085957Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus @ Nutribullet Treviso Basket
+DESCRIPTION:LBA – 10° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25440@virtus-calendar
+DTSTAMP:20260804T085958Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus vs. APU Old Wild West Udine
+DESCRIPTION:LBA – 11° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25453@virtus-calendar
+DTSTAMP:20260804T090006Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus @ UNA Hotels Reggio Emilia
+DESCRIPTION:LBA – 12° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25456@virtus-calendar
+DTSTAMP:20260804T090006Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus vs. Bertram Derthona Tortona
+DESCRIPTION:LBA – 13° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25468@virtus-calendar
+DTSTAMP:20260813T083301Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus @ Napoli Basketball
+DESCRIPTION:LBA – 14° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25472@virtus-calendar
+DTSTAMP:20260804T090009Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus vs. Acqua S.Bernardo Cantù
+DESCRIPTION:LBA – 15° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25484@virtus-calendar
+DTSTAMP:20260804T090016Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus @ Longobardi Scafati Basket
+DESCRIPTION:LBA – 16° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25488@virtus-calendar
+DTSTAMP:20260804T090017Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus vs. Armani Olimpia Milano
+DESCRIPTION:LBA – 17° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25500@virtus-calendar
+DTSTAMP:20260804T090024Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus @ Maxima Roma
+DESCRIPTION:LBA – 18° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25504@virtus-calendar
+DTSTAMP:20260804T090024Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus vs. UNA Hotels Reggio Emilia
+DESCRIPTION:LBA – 19° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25513@virtus-calendar
+DTSTAMP:20260804T090025Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus @ Pallacanestro Trieste
+DESCRIPTION:LBA – 20° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25520@virtus-calendar
+DTSTAMP:20260804T090032Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus vs. Umana Reyer Venezia
+DESCRIPTION:LBA – 21° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25535@virtus-calendar
+DTSTAMP:20260804T090040Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus @ APU Old Wild West Udine
+DESCRIPTION:LBA – 22° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25536@virtus-calendar
+DTSTAMP:20260804T090040Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus @ BC Roma
+DESCRIPTION:LBA – 23° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25544@virtus-calendar
+DTSTAMP:20260804T090041Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus vs. Openjobmetis Varese
+DESCRIPTION:LBA – 24° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25552@virtus-calendar
+DTSTAMP:20260804T090048Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus @ Tezenis Verona
+DESCRIPTION:LBA – 25° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25560@virtus-calendar
+DTSTAMP:20260813T083332Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus vs. Napoli Basketball
+DESCRIPTION:LBA – 26° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25575@virtus-calendar
+DTSTAMP:20260804T090056Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus @ Acqua S.Bernardo Cantù
+DESCRIPTION:LBA – 27° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25576@virtus-calendar
+DTSTAMP:20260804T090056Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus vs. Nutribullet Treviso Basket
+DESCRIPTION:LBA – 28° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25586@virtus-calendar
+DTSTAMP:20260804T090057Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus @ Bertram Derthona Tortona
+DESCRIPTION:LBA – 29° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25592@virtus-calendar
+DTSTAMP:20260804T090104Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+TRANSP:TRANSPARENT
+SUMMARY:🇮🇹 Virtus vs. Dolomiti Energia Trentino
+DESCRIPTION:LBA – 30° Giornata\nOrario non ancora ufficializzato: il cal
+ endario si aggiorna da solo.\nFonte: legabasket.it
+CATEGORIES:LBA
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
