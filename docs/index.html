@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Calendario Virtus Bologna</title>
+<style>
+  :root { color-scheme: light dark; --accent: #111; --bg: #fff; --card: #f3f3f3; --fg: #111; }
+  @media (prefers-color-scheme: dark) { :root { --accent: #eee; --bg: #121212; --card: #1e1e1e; --fg: #eee; } }
+  body { font-family: -apple-system, system-ui, sans-serif; background: var(--bg); color: var(--fg); max-width: 36rem; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+  h1 { font-size: 1.6rem; margin-bottom: .25rem; }
+  a.btn { display: block; background: var(--card); color: var(--fg); text-decoration: none; padding: 1rem; border-radius: 12px; margin: .6rem 0; font-weight: 600; }
+  a.btn span { display: block; font-weight: 400; font-size: .9rem; opacity: .7; }
+  code { word-break: break-all; font-size: .85rem; }
+  small { opacity: .7; }
+</style>
+</head>
+<body>
+<h1>🏀 Calendario Virtus Bologna</h1>
+<p>Tutte le partite di LBA ed EuroLeague, aggiornate automaticamente dai siti ufficiali. Tocca un calendario da iPhone o Mac per iscriverti.</p>
+<a class="btn" data-file="virtus.ics">Tutte le partite<span>LBA + EuroLeague</span></a>
+<a class="btn" data-file="virtus-lba.ics">Solo LBA<span>Campionato, playoff, Coppa Italia, Supercoppa</span></a>
+<a class="btn" data-file="virtus-euroleague.ics">Solo EuroLeague<span>Regular season e playoff</span></a>
+<p><small>Per Google Calendar: “Altri calendari” → “Da URL” e incolla:<br><code id="url"></code></small></p>
+<p><small>Progetto amatoriale non ufficiale. Dati da legabasket.it ed euroleaguebasketball.net.</small></p>
+<script>
+  const base = location.host + location.pathname.replace(/index\.html$/, "").replace(/\/?$/, "/");
+  document.querySelectorAll("a.btn").forEach(a => a.href = "webcal://" + base + a.dataset.file);
+  document.getElementById("url").textContent = "https://" + base + "virtus.ics";
+</script>
+</body>
+</html>
