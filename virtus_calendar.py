@@ -362,10 +362,10 @@ def _utc(dt: datetime) -> str:
 
 
 def game_summary(g: Game) -> str:
-    # Formato: <icona> Virtus vs. <avversario>  (in casa)
-    #          <icona> Virtus @ <avversario>    (in trasferta)
+    # Formato: <icona> vs. <avversario>  (in casa)
+    #          <icona> @ <avversario>    (in trasferta)
     sep = "vs." if g.virtus_home else "@"
-    return f"{g.icon} Virtus {sep} {g.opponent_name}"
+    return f"{g.icon} {sep} {g.opponent_name}"
 
 
 def game_description(g: Game) -> str:
