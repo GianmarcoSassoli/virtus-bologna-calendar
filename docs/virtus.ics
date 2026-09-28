@@ -33,7 +33,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lba-25606@virtus-calendar
-DTSTAMP:20260922T074119Z
+DTSTAMP:20260927T191740Z
 DTSTART:20260927T170000Z
 DTEND:20260927T190000Z
 SUMMARY:🇮🇹 @ Openjobmetis Varese
@@ -681,7 +681,8 @@ DTEND;VALUE=DATE:20270328
 TRANSP:TRANSPARENT
 SUMMARY:🇮🇹 vs. Openjobmetis Varese
 DESCRIPTION:LBA – 24° Giornata\nOrario non ancora ufficializzato: il cal
- endario si aggiorna da solo.\nFonte: legabasket.it
+ endario si aggiorna da solo.\nAndata (27/09/2026): Openjobmetis Varese 69 
+ – 90 Virtus Bologna\nFonte: legabasket.it
 CATEGORIES:LBA
 STATUS:TENTATIVE
 END:VEVENT
