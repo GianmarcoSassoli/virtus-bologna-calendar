@@ -43,7 +43,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lba-25377@virtus-calendar
-DTSTAMP:20261006T112419Z
+DTSTAMP:20261011T185657Z
 DTSTART:20261011T170000Z
 DTEND:20261011T190000Z
 SUMMARY:🇮🇹 @ Umana Reyer Venezia
@@ -258,7 +258,8 @@ DTEND;VALUE=DATE:20270308
 TRANSP:TRANSPARENT
 SUMMARY:🇮🇹 vs. Umana Reyer Venezia
 DESCRIPTION:LBA – 21° Giornata\nOrario non ancora ufficializzato: il cal
- endario si aggiorna da solo.\nFonte: legabasket.it
+ endario si aggiorna da solo.\nAndata (11/10/2026): Umana Reyer Venezia 86 
+ – 93 Virtus Bologna\nFonte: legabasket.it
 CATEGORIES:LBA
 STATUS:TENTATIVE
 END:VEVENT
