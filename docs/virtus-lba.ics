@@ -54,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lba-25384@virtus-calendar
-DTSTAMP:20261013T134924Z
+DTSTAMP:20261018T181753Z
 DTSTART:20261018T163000Z
 DTEND:20261018T183000Z
 SUMMARY:🇮🇹 vs. Longobardi Scafati Basket
@@ -197,7 +197,8 @@ DTEND;VALUE=DATE:20270118
 TRANSP:TRANSPARENT
 SUMMARY:🇮🇹 @ Longobardi Scafati Basket
 DESCRIPTION:LBA – 16° Giornata\nOrario non ancora ufficializzato: il cal
- endario si aggiorna da solo.\nFonte: legabasket.it
+ endario si aggiorna da solo.\nAndata (18/10/2026): Virtus Bologna 108 – 
+ 83 Longobardi Scafati Basket\nFonte: legabasket.it
 CATEGORIES:LBA
 STATUS:TENTATIVE
 END:VEVENT
