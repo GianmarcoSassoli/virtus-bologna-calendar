@@ -65,7 +65,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lba-25392@virtus-calendar
-DTSTAMP:20261020T072936Z
+DTSTAMP:20261025T193054Z
 DTSTART:20261025T150000Z
 DTEND:20261025T170000Z
 SUMMARY:🇮🇹 @ Armani Olimpia Milano
@@ -210,7 +210,8 @@ DTEND;VALUE=DATE:20270125
 TRANSP:TRANSPARENT
 SUMMARY:🇮🇹 vs. Armani Olimpia Milano
 DESCRIPTION:LBA – 17° Giornata\nOrario non ancora ufficializzato: il cal
- endario si aggiorna da solo.\nFonte: legabasket.it
+ endario si aggiorna da solo.\nAndata (25/10/2026): Armani Olimpia Milano 9
+ 4 – 98 Virtus Bologna\nFonte: legabasket.it
 CATEGORIES:LBA
 STATUS:TENTATIVE
 END:VEVENT
