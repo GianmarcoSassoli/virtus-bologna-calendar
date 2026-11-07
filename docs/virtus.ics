@@ -198,7 +198,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lba-25408@virtus-calendar
-DTSTAMP:20261105T150908Z
+DTSTAMP:20261106T152919Z
 DTSTART:20261109T190000Z
 DTEND:20261109T210000Z
 SUMMARY:🇮🇹 vs. Tezenis Verona
@@ -526,7 +526,8 @@ DTEND:20270204T180000Z
 SUMMARY:🇪🇺 @ Dubai Basketball
 LOCATION:Coca-Cola Arena\, Al Wasl - سٹی واک - Dubai - United Arab Em
  irates
-DESCRIPTION:EuroLeague – Round 27\nFonte: euroleaguebasketball.net
+DESCRIPTION:EuroLeague – Round 27\nAndata (06/11/2026): Virtus Bologna 75
+  – 93 Dubai Basketball\nFonte: euroleaguebasketball.net
 CATEGORIES:EuroLeague
 STATUS:CONFIRMED
 END:VEVENT
