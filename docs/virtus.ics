@@ -221,7 +221,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lba-25417@virtus-calendar
-DTSTAMP:20261110T080406Z
+DTSTAMP:20261115T205016Z
 DTSTART:20261115T180000Z
 DTEND:20261115T200000Z
 SUMMARY:🇮🇹 @ Dolomiti Energia Trentino
@@ -804,7 +804,8 @@ DTEND;VALUE=DATE:20270510
 TRANSP:TRANSPARENT
 SUMMARY:🇮🇹 vs. Dolomiti Energia Trentino
 DESCRIPTION:LBA – 30° Giornata\nOrario non ancora ufficializzato: il cal
- endario si aggiorna da solo.\nFonte: legabasket.it
+ endario si aggiorna da solo.\nAndata (15/11/2026): Dolomiti Energia Trenti
+ no 75 – 88 Virtus Bologna\nFonte: legabasket.it
 CATEGORIES:LBA
 STATUS:TENTATIVE
 END:VEVENT
