@@ -168,7 +168,7 @@ UID:euroleague-E2026_89@virtus-calendar
 DTSTAMP:20260101T000000Z
 DTSTART:20261030T193000Z
 DTEND:20261030T213000Z
-SUMMARY:🇪🇺 vs. Besiktas Istanbul
+SUMMARY:🇪🇺 vs. Besiktas Fuzul Istanbul
 LOCATION:Paladozza\, Via Nannetti 1\, 40122 Bologna - Italy
 DESCRIPTION:EuroLeague – Round 9\nFonte: euroleaguebasketball.net
 CATEGORIES:EuroLeague
@@ -720,7 +720,8 @@ DTSTART:20270406T183000Z
 DTEND:20270406T203000Z
 SUMMARY:🇪🇺 vs. Valencia Basket
 LOCATION:Virtus Arena\, Viale della Fiera\, 40128\, Bologna
-DESCRIPTION:EuroLeague – Round 36\nFonte: euroleaguebasketball.net
+DESCRIPTION:EuroLeague – Round 36\nAndata (19/11/2026): Valencia Basket 9
+ 2 – 87 Virtus Bologna\nFonte: euroleaguebasketball.net
 CATEGORIES:EuroLeague
 STATUS:CONFIRMED
 END:VEVENT
@@ -753,11 +754,11 @@ UID:euroleague-E2026_377@virtus-calendar
 DTSTAMP:20260101T000000Z
 DTSTART:20270416T170000Z
 DTEND:20270416T190000Z
-SUMMARY:🇪🇺 @ Besiktas Istanbul
+SUMMARY:🇪🇺 @ Besiktas Fuzul Istanbul
 LOCATION:Turkcell Basketball Development Center\, Kazliçesme Mah. 10. Yil 
  Caddesi No: 2/1 Zeytinburnu / Turkiye
 DESCRIPTION:EuroLeague – Round 38\nAndata (30/10/2026): Virtus Bologna 10
- 1 – 103 Besiktas Istanbul\nFonte: euroleaguebasketball.net
+ 1 – 103 Besiktas Fuzul Istanbul\nFonte: euroleaguebasketball.net
 CATEGORIES:EuroLeague
 STATUS:CONFIRMED
 END:VEVENT
